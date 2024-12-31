@@ -1,2 +1,2 @@
 # donationMatching
-A site to consolidate infor for companies employee donation amtching.
+A site to consolidate info for companies employee donation amtching.

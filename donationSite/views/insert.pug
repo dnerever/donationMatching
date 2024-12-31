@@ -1,0 +1,13 @@
+extends layout 
+
+block main_content 
+    h1 Submit Info 
+
+    form(action="/submit", method="POST")
+    label(for="name") Name:
+    input(type="text", name="name", required)
+    
+    label(for="email") Email:
+    input(type="email", name="email", required)
+    
+    button(type="submit") Submit
